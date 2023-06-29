@@ -1,6 +1,6 @@
 <template>
   <div>
     <!-- <NuxtWelcome /> -->
-    <h1>merhaba</h1>
+    <h1>Hello world</h1>
   </div>
 </template>
